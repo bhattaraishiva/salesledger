@@ -1,0 +1,48 @@
+
+    .text{
+        color:rgba(224, 184, 4, 0.883);
+      }
+
+    .text1{
+        color:black;
+        text-justify: auto;
+    }
+    .text2{
+        color:white;
+    }
+
+    .text3{
+        color:maroon;
+    }
+
+.whole{
+    background:url(img/background.png);
+    
+}
+
+.background{
+    background-color:white;
+    
+}
+
+.background1{
+    background-color:grey;
+}
+
+
+.ic{
+    color: rgb(3, 243, 3);
+}
+
+.btn-primary{
+    color:#fff;background-color:#820120;border-color:#820120;
+}
+.table th {
+    text-align: center;   
+ }
+
+ thead th,td {
+    font-size: 0.6em;
+  
+    height: 15px;
+  }
